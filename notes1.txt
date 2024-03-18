@@ -1,0 +1,12 @@
+header - margin top
+логотип целиком
+хедер справа gap 20
+хедер: flex, space between
+header img div
+width 1170, margin: 0 auto;
+картинку качать целиком, с зоной справа
+кнопки скруглить, убрать границы (border none?)
+белая кнопка - сссылка
+footer: width 1200; margin-left:auto; margin-right:auto; justify:space-between;
+
+шрифты приложены
